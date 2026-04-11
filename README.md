@@ -1,7 +1,7 @@
-# 🚀 CodePulse AI – Predict. Prevent. Profit.
+# 🚀 Next-generation code optmization and development engine 
 
 ## 🧠 Overview
-CodePulse AI is an intelligent system that analyzes GitHub repositories to **predict future software failures** and **translate technical risks into business impact**.  
+Thisc  is an intelligent system that analyzes GitHub repositories to **predict future software failures** and **translate technical risks into business impact**.  
 
 Unlike traditional tools that focus only on past bugs, our solution provides **proactive insights** and helps both developers and decision-makers take smarter actions.
 
